@@ -3,4 +3,5 @@
 _test test_
 _test test_
 
-수연 작업함
+**1차 수정** 수연 작업함
+**2차 수정** my 작업함/window updates
