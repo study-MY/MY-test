@@ -19,3 +19,5 @@ _test test_
 
 branch1에 텍스트가 또 다시 작성되고 있습니다.
 브랜치 트리가 어떻게 구성되는 지 이해하지 못하고 있습니다.
+
+**12:48** from branch 1. I can't understand my branches. OMG.
