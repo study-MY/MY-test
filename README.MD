@@ -5,3 +5,4 @@ _test test_
 
 **1차 수정** 수연 작업함
 **2차 수정** my 작업함/window updates
+-3차 수정_SY(member)
